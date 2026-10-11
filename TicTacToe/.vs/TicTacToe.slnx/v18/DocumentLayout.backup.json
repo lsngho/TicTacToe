@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\uD559\uC6D0\uAEBC\\tictactoe\\TicTacToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCF5BF1-4DDB-E550-9CCB-7C7534CD0E49}|TicTacToe\\TicTacToe.csproj|c:\\users\\user\\desktop\\\uD559\uC6D0\uAEBC\\tictactoe\\tictactoe\\tictactoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCF5BF1-4DDB-E550-9CCB-7C7534CD0E49}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCF5BF1-4DDB-E550-9CCB-7C7534CD0E49}|TicTacToe\\TicTacToe.csproj|c:\\users\\user\\desktop\\\uD559\uC6D0\uAEBC\\tictactoe\\tictactoe\\tictactoe\\tictactoe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6DCF5BF1-4DDB-E550-9CCB-7C7534CD0E49}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\tictactoe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicTacToe.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uD559\uC6D0\uAEBC\\tictactoe\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+              "RelativeDocumentMoniker": "TicTacToe\\TicTacToe.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uD559\uC6D0\uAEBC\\tictactoe\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+              "RelativeToolTip": "TicTacToe\\TicTacToe.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-10T07:46:01.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uD559\uC6D0\uAEBC\\tictactoe\\TicTacToe\\TicTacToe\\Program.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uD559\uC6D0\uAEBC\\tictactoe\\TicTacToe\\TicTacToe\\Program.cs",
+              "RelativeToolTip": "TicTacToe\\Program.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAHQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T07:45:36.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
