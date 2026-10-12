@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\학원꺼\\tictactoe\\TicTacToe\\TicTacToe\\TicTacToe.csproj": {}
+    "C:\\Users\\user\\TicTacToe\\TicTacToe\\TicTacToe\\TicTacToe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\학원꺼\\tictactoe\\TicTacToe\\TicTacToe\\TicTacToe.csproj": {
+    "C:\\Users\\user\\TicTacToe\\TicTacToe\\TicTacToe\\TicTacToe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\학원꺼\\tictactoe\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+        "projectUniqueName": "C:\\Users\\user\\TicTacToe\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
         "projectName": "TicTacToe",
-        "projectPath": "C:\\Users\\user\\Desktop\\학원꺼\\tictactoe\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+        "projectPath": "C:\\Users\\user\\TicTacToe\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\학원꺼\\tictactoe\\TicTacToe\\TicTacToe\\obj\\",
+        "outputPath": "C:\\Users\\user\\TicTacToe\\TicTacToe\\TicTacToe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

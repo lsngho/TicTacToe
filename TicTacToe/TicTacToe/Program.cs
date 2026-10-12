@@ -95,25 +95,14 @@ static void MemoryBoard()
         char win = MatchResult(board);
         if (win != 'n')
         {
-            Console.Clear();
-            InputBoard(board, playerTurn);
+            //Console.Clear();
+            //InputBoard(board, playerTurn);
+
             Console.WriteLine($"플레이어 {win} 승리!");
             return;
         }
         playerTurn = !playerTurn;
         Console.WriteLine();
-    }
-    Console.Clear();
-
-    for (int r = 0; r < 3; r++)
-    {
-        for (int c = 0; c < 3; c++)
-        {
-            Console.Write(board[r, c]);
-            if (c < 2) Console.Write(" | ");
-        }
-        Console.WriteLine();
-        if (r < 2) Console.WriteLine("---------");
     }
     Console.WriteLine("무승부 입니다!");
 }
